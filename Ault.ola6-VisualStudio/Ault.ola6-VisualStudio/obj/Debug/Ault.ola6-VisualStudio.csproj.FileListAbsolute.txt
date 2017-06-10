@@ -1,0 +1,14 @@
+C:\Users\Bryce\Desktop\C#\OLA\ola6\Ault.ola6-VisualStudio\Ault.ola6-VisualStudio\bin\Debug\Ault.ola6-VisualStudio.exe.config
+C:\Users\Bryce\Desktop\C#\OLA\ola6\Ault.ola6-VisualStudio\Ault.ola6-VisualStudio\bin\Debug\Ault.ola6-VisualStudio.exe
+C:\Users\Bryce\Desktop\C#\OLA\ola6\Ault.ola6-VisualStudio\Ault.ola6-VisualStudio\bin\Debug\Ault.ola6-VisualStudio.pdb
+C:\Users\Bryce\Desktop\C#\OLA\ola6\Ault.ola6-VisualStudio\Ault.ola6-VisualStudio\obj\Debug\Ault.ola6-VisualStudio.csprojResolveAssemblyReference.cache
+C:\Users\Bryce\Desktop\C#\OLA\ola6\Ault.ola6-VisualStudio\Ault.ola6-VisualStudio\obj\Debug\MainWindow.g.cs
+C:\Users\Bryce\Desktop\C#\OLA\ola6\Ault.ola6-VisualStudio\Ault.ola6-VisualStudio\obj\Debug\App.g.cs
+C:\Users\Bryce\Desktop\C#\OLA\ola6\Ault.ola6-VisualStudio\Ault.ola6-VisualStudio\obj\Debug\Ault.ola6-VisualStudio_MarkupCompile.cache
+C:\Users\Bryce\Desktop\C#\OLA\ola6\Ault.ola6-VisualStudio\Ault.ola6-VisualStudio\obj\Debug\Ault.ola6-VisualStudio_MarkupCompile.lref
+C:\Users\Bryce\Desktop\C#\OLA\ola6\Ault.ola6-VisualStudio\Ault.ola6-VisualStudio\obj\Debug\MainWindow.baml
+C:\Users\Bryce\Desktop\C#\OLA\ola6\Ault.ola6-VisualStudio\Ault.ola6-VisualStudio\obj\Debug\Ault.ola6-VisualStudio.g.resources
+C:\Users\Bryce\Desktop\C#\OLA\ola6\Ault.ola6-VisualStudio\Ault.ola6-VisualStudio\obj\Debug\Ault.ola6_VisualStudio.Properties.Resources.resources
+C:\Users\Bryce\Desktop\C#\OLA\ola6\Ault.ola6-VisualStudio\Ault.ola6-VisualStudio\obj\Debug\Ault.ola6-VisualStudio.csproj.GenerateResource.Cache
+C:\Users\Bryce\Desktop\C#\OLA\ola6\Ault.ola6-VisualStudio\Ault.ola6-VisualStudio\obj\Debug\Ault.ola6-VisualStudio.exe
+C:\Users\Bryce\Desktop\C#\OLA\ola6\Ault.ola6-VisualStudio\Ault.ola6-VisualStudio\obj\Debug\Ault.ola6-VisualStudio.pdb
