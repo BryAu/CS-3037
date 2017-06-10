@@ -1,0 +1,16 @@
+C:\programming\cs3037\IRSform\IRSform\IRSform\bin\Debug\IRSform.exe.config
+C:\programming\cs3037\IRSform\IRSform\IRSform\bin\Debug\IRSform.exe
+C:\programming\cs3037\IRSform\IRSform\IRSform\bin\Debug\IRSform.pdb
+C:\programming\cs3037\IRSform\IRSform\IRSform\obj\Debug\IRSform.Form1.resources
+C:\programming\cs3037\IRSform\IRSform\IRSform\obj\Debug\IRSform.Properties.Resources.resources
+C:\programming\cs3037\IRSform\IRSform\IRSform\obj\Debug\IRSform.csproj.GenerateResource.Cache
+C:\programming\cs3037\IRSform\IRSform\IRSform\obj\Debug\IRSform.exe
+C:\programming\cs3037\IRSform\IRSform\IRSform\obj\Debug\IRSform.pdb
+C:\Users\Bryce\Desktop\C#\OLA\IRSform\IRSform\IRSform\bin\Debug\IRSform.exe.config
+C:\Users\Bryce\Desktop\C#\OLA\IRSform\IRSform\IRSform\obj\Debug\IRSform.exe
+C:\Users\Bryce\Desktop\C#\OLA\IRSform\IRSform\IRSform\obj\Debug\IRSform.pdb
+C:\Users\Bryce\Desktop\C#\OLA\IRSform\IRSform\IRSform\bin\Debug\IRSform.exe
+C:\Users\Bryce\Desktop\C#\OLA\IRSform\IRSform\IRSform\bin\Debug\IRSform.pdb
+C:\Users\Bryce\Desktop\C#\OLA\IRSform\IRSform\IRSform\obj\Debug\IRSform.Form1.resources
+C:\Users\Bryce\Desktop\C#\OLA\IRSform\IRSform\IRSform\obj\Debug\IRSform.Properties.Resources.resources
+C:\Users\Bryce\Desktop\C#\OLA\IRSform\IRSform\IRSform\obj\Debug\IRSform.csproj.GenerateResource.Cache
